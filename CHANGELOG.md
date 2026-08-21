@@ -7,3 +7,4 @@
 ## [v1.4.0] - 2026-08-07
 ### Fixed
 - Corrección de bug en exportación de reportes
+# hotfix note
