@@ -16,3 +16,4 @@ Registro de Lote y Fecha de Caducidad
 
 ## Relación con CR
 **CR-004-SEM4-MANZANILLASALLAN**
+REQ-003: Filtrar productos por fecha (pendiente de definir criterios).
