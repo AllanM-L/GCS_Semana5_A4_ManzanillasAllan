@@ -1,0 +1,27 @@
+# Dependencias
+node_modules/
+vendor/
+.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Build
+dist/
+build/
+*.min.js
+*.min.css
