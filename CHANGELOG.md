@@ -32,3 +32,21 @@
 
 ### Dependencies
 - Configuración inicial de Node.js
+
+## [v1.2.0] - 2026-08-24
+
+### Added
+- Auditoría física de configuración (#3)
+- Auditoría funcional de requisitos HU-022 (#4)
+- Documentación de trazabilidad (#5)
+- Plantilla de pull request (#5)
+- Checklist de integridad (#7)
+- Informes de auditoría en docs/
+
+### Changed
+- README.md actualizado con información de auditoría
+- Estructura de documentación mejorada
+
+### Security
+- Controles de integridad establecidos
+- Checklist de auditoría para PRs
