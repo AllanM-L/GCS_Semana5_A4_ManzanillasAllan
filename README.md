@@ -1,4 +1,4 @@
-# GCS_Semana5_A4_ManzanillasAllan
+# GCS_Semana6_ManzanillasAllan
 
 ## Práctica "Repo Auditable" — Arreglar versionado + registrar estados
 
